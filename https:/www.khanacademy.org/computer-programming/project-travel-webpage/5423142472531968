@@ -1,0 +1,130 @@
+# Crambryrock.github.io
+Project website
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body{
+            background:green;
+        }
+        h2{
+           color:rgb(240, 240, 17); 
+        }
+        </style>
+    </head>
+    <body>
+       
+        <h1>Cambry's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#pan-a-cake">Germen panckes</a></li>
+            <li><a href="#straw_berry">Straw berry sortcake biscits</a></li>
+            <li><a href="#brown">Brownies</a></li>
+        </ol>
+        
+        <h2 id="pan-a-cake">Germen Pancakes</h2>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                <td>eggs</td>
+                <td>6</td>
+                </tr>
+                <tr>
+                <td>flower</td>
+                <td>2 cups</td>
+                </tr>
+                <tr>
+                <td>suger</td>
+                <td>1 cup</td>
+                </tr>
+                <tr>
+                <td>butter or margen</td>
+                <td>1 cup</td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Crack 6 eggs over a blender or bowl, then add butter or magren. 
+</p>
+<p><strong>Step 2:</strong>Blend or mix the eggs and butter or margen
+  </p>
+  <p><strong>Step 3:</strong> get a sepret bowl and mix together the suger and flower. </p>
+  <p><strong>Step 4:</strong>pour in the eggs and butter or margen into a high pan, then a in the folwer and suger. Mix well.</p>
+  <p><strong>Step 5:</strong> Preheat to 350, once ready, put mixter into oven. Cook for 15-20 mins.
+  </p>
+    <p><em>Source: <a href="https://tastesbetterfromscratch.com/german-pancakes-2/">Some recipes websites</a></em></p>
+    <h2 id="straw_berry">Strawberry Sortcake Biscits</h2>
+    <table>
+        <thead>
+           <tr>
+               <th>Ingredients</th>
+               <th>Quantity</th>
+           </tr>
+           <tr>
+               <td>suger</td>
+               <td>1/4 cup</td>
+           </tr>
+           <tr>
+               <td>Strawberrys</td>
+               <td>6-7 cups</td>
+           </tr>
+           <tr>
+               <td>vanilla</td>
+               <td>1 teaspoon</td>
+           </tr>
+           <tr>
+               <td>hevey cream</td>
+               <td>1 cup</td>
+           </tr>
+        </thead>
+    </table>
+    <p><strong>Step 1:</strong>Start with the strawberries: Stir the strawberries and 1/4 cup (50g) granulated sugar together in a large bowl. Cover and set in the refrigerator until ready to use. This time allows the strawberries to release their delicious juices</p>
+<p><strong>Step 2: </strong>Make the biscuits: Preheat oven to 425°F (218°C). Mix the flour, granulated sugar, baking powder, and salt together in a large bowl or in a large food processor. Whisk or pulse until combined. Add the cubed butter and cut into the dry ingredients with a pastry cutter or by pulsing several times in the processor. Pulse until coarse crumbs form. If you used a food processor, pour the mixture into a large bowl</p>
+<p><strong>Step 3: </strong>Pour buttermilk on top. Stir everything together until just about combined– do not overwork the dough. The dough will look like shreds and be very crumbly. Turn the dough out onto a work surface and gently mold it together in a ball using your hands. Gently flatten until it is evenly 1/2 inch thick. Cut into 3-inch circles. Re-roll any scraps until you have about 12 biscuits. (I didn’t re-roll my scraps– that’s why you only see 9!)</p>
+<p><strong>Step 4: </strong>Arrange in a 10-inch cast iron skillet or close together on a lined baking sheet. Make sure they’re touching.</p>
+<p><strong>Step 5: </strong>Brush the tops with 2 Tablespoons heavy cream (or buttermilk) and sprinkle with coarse sugar. Bake for 15 minutes or until biscuits are golden brown on top. Remove from the oven and allow to cool for 10 minutes before assembling.</p>
+<p><strong>Step 5: </strong>Slice the biscuits in half and layer with strawberries and whipped cream. Serve immediately.</p>
+<p>Sorce: <a href="https://sallysbakingaddiction.com/easy-homemade-strawberry-shortcake/#tasty-recipes-68038">recipe website</a></p>
+<h2 id="brown">Brownies</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Ingrdients</th>
+            <th>Quantity</th>
+        </tr>
+        <tr>
+        <td>eggs  </td>
+        <td>2</td>
+        </tr>
+        
+        <tr>
+            <td>oil</td>
+            <td>1 cup</td>
+        </tr>
+        <tr>
+            <td>Vanilla </td>
+            <td>1/2 teaspoon</td>
+        </tr>
+        <tr>
+            <td>a box of batter </td>
+                
+            </tr>
+    </thead>
+</table>
+<p><strong>Step 1: </strong>Crack the eggs over a bowl, then add in the oil and vanilla.</p>
+<p><strong>Step 2: </strong> pour in the box of batter</p>
+<p><strong>Step 3: </strong>Preheat the oven to 250, cook for 15-20 mins.</p>
+<p>Sorce: <a href="https://www.loveandlemons.com/brownies-recipe/#wprm-recipe-container-42107">resipe website</a></p>
+    </body>
+</html>
